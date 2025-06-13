@@ -1,0 +1,26 @@
+Open Command Prompt:
+
+Press Win + R, type cmd, and press Enter to open the Command Prompt.
+Navigate to Your Script Directory:
+
+Use the cd command to change the directory to where your script is located. For example:
+
+cd C:\Users\killm\OneDrive\Desktop\discord bot application
+Install discord.py:
+
+Run the following command to install the discord.py library:
+
+pip install discord.py
+Run Your Script:
+
+After the installation is complete, run your script using:
+
+python dc_bot.py
+
+
+                _  __    _    _    ____     ______    __  __    _____  
+                | |/ /  | |  | |  |  _ \   |   _  |  |  \/  |  |_   _| 
+                | ' /   | |  | |  | |_) |  |  | | |  | \  / |    | |   
+                |  <    | |  | |  |  _ <   |  | | |  | |\/| |    | |   
+                | . \   | |__| |  | | \ \  |  |_| |  | |  | |   _| |_  
+                |_|\_\   \____/   |_|  \_\ |______|  |_|  |_|  |_____| 
