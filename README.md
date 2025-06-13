@@ -1,6 +1,7 @@
 # Discord-Self-Bot
 🔧 What It Is? This is a multi-function Discord user bot (not a bot account) that uses your own Discord user token to perform automated actions. It's controlled from a console interface and offers a list of options for you to choose from.
 
+--------------------------------------------------------------
 📋 Main Features
 1.Send DM to Specific Members
   -Send a message to one or more user IDs through direct message.
@@ -19,6 +20,7 @@
 
 6.Exit
   -Cleanly exits the program.
+--------------------------------------------------------------
 
 🖥️ How You Use It
 When the program starts, it shows a menu.
@@ -31,6 +33,7 @@ It asks for additional input like:
 -Schedule time or channel ID
 
 Then it performs the action, often using asyncio.run(...) to handle Discord API calls asynchronously.
+--------------------------------------------------------------
 
 ⚠️ Important Notes
 This script uses a user token, which goes against Discord's Terms of Service. User bots are not allowed and can result in account termination.
@@ -41,6 +44,7 @@ Uses libraries like:
 -discord.py for API interaction
 -colorama for colored text in the console
 -asyncio for running async functions like sending messages
+--------------------------------------------------------------
 
 ## ⚠️ Disclaimer
 
